@@ -5,7 +5,8 @@
 
 This project has Artemis demonstrations using several provider and the NoSQL API and its specializations.
 
-
+JnoSQL 4 CouchDB : 
+https://dzone.com/articles/relax-java-and-nosql-with-couchdb
 
 
 The bunch of projects that are using Artemis with CDI 2.0
