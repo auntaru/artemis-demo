@@ -7,6 +7,7 @@ This project has Artemis demonstrations using several provider and the NoSQL API
 
 JnoSQL 4 CouchDB : 
 https://dzone.com/articles/relax-java-and-nosql-with-couchdb
+
 https://github.com/JNOSQL/artemis-demo/tree/master/artemis-demo-java-se/couchdb
 
 
