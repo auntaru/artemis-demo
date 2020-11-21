@@ -18,3 +18,5 @@ https://grokonez.com/spring-framework/spring-jms/apache-artemis-produceconsume-j
 
 https://github.com/search?p=1&q=%22artemis-demo%22&type=Repositories
 
+https://github.com/auntaru/spring-boot-artemis-demo
+
